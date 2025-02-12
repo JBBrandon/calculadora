@@ -1,6 +1,6 @@
 # main.py
 
-from src.calculadora import sumar, restar, multiplicar, dividir
+from calculadora import sumar, restar, multiplicar, dividir
 
 def mostrar_menu():
     print("1. Sumar")
